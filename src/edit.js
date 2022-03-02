@@ -21,8 +21,10 @@ export default (props) => {
     });
   };
 
+  const blockProps = useBlockProps({ className });
+
   return (
-    <div>
+    <div {...blockProps}>
       <InspectorControls key="setting">
         <Panel>
           <PanelBody title="Thumbnail">
@@ -57,7 +59,8 @@ export default (props) => {
           </PanelBody>
         </Panel>
       </InspectorControls>
-      <div className="">
+      <div className="alignfull">
+        {!mediaUrl ? <h3>Choose a 360 image on the right sidebar</h3> : null}
         <img src={mediaUrl} />
       </div>
     </div>
