@@ -1,0 +1,4 @@
+.pano-container {
+  width: 100%;
+  height: max(20vh, 500px);
+}

@@ -1,0 +1,23 @@
+{
+  "apiVersion": 2,
+  "name": "bdg/pano",
+  "version": "0.1.0",
+  "title": "360 Panorama Viewer for BDG",
+  "category": "media",
+  "description": "360 image embed for BDG",
+  "supports": {
+    "html": false,
+    "color": {
+      "gradients": true,
+      "link": true,
+      "__experimentalDefaultControls": {
+        "background": true,
+        "text": true
+      }
+    }
+  },
+  "textdomain": "bdg",
+  "editorScript": "file:./build/index.js",
+  "editorStyle": "file:./build/index.css",
+  "style": "file:./build/style-index.css"
+}
