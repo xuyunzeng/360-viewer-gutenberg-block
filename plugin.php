@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name:       Pano 360 Viewer for BDG
- * Description:       Blocks made for BDG.
+ * Plugin Name:       Pano 360 Viewer
+ * Description:       Blocks made.
  * Requires at least: 5.9
  * Requires PHP:      7.0
  * Version:           0.1.0

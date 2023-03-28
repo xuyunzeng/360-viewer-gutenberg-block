@@ -1,10 +1,10 @@
 {
   "apiVersion": 2,
   "name": "bdg/pano",
-  "version": "0.1.0",
-  "title": "360 Panorama Viewer for BDG",
+  "version": "0.1.1",
+  "title": "360 Panorama Viewer by XYZ",
   "category": "media",
-  "description": "360 image embed for BDG",
+  "description": "360 image embed by XYZ",
   "supports": {
     "html": false,
     "color": {

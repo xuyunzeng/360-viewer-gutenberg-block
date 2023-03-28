@@ -1,1 +1,0 @@
-{"version":3,"file":"./style-index.css","mappings":";;;AAAA;EACE,WAAW;EACX,wBAAwB;AAC1B","sources":["webpack://360-viewer/./src/style.css"],"sourcesContent":[".pano-container {\r\n  width: 100%;\r\n  height: max(20vh, 500px);\r\n}\r\n"],"names":[],"sourceRoot":""}
